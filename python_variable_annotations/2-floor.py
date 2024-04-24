@@ -4,6 +4,8 @@ import math
     floor function that takes
     a float n as an argument
 """
+
+
 def floor(n: float) -> int:
     """
         returns the floor of the float.
